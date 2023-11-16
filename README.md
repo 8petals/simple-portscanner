@@ -7,5 +7,5 @@ paste the following commands in your terminal:-
 <br>
 git clone https://github.com/8petals/simple-portscanner.git
 <br>
-https://imgur.com/a/9vRpIRz
+![Screenshot from 2023-11-16 16-44-52](https://github.com/8petals/simple-portscanner/assets/89827449/163481b3-bdfe-4612-a361-7658d8beb4fa)
 <br>
